@@ -1,3 +1,3 @@
 # nikodc's blog page
 
-Personal bloh page based on **Beautiful Jekyll** [Check out a demo](http://deanattali.com/beautiful-jekyll).
+Personal blog page based on [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll).
